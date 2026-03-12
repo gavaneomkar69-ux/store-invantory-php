@@ -110,9 +110,10 @@ margin-top:10px;
 
 </div>
 
-<p>Developed by: Omkar</p>
+<p>Developed by: ONP</p>
 
 </div>
 
 </body>
+
 </html>
